@@ -175,7 +175,5 @@ reduce the amount of data you get. All depends on what data you need or don't ne
 
 ## Release History
 
-* 0.1.0
-    * The first proper release
-* 0.5.0
-    * Added a number of performance enhancements and ensuring correct data being scraped
+v1: 02.14.2023 - 02.22.2023 sold: 4 copy
+v2: 02.22.2023 - ...........  our team has started to develop 2nd version.
