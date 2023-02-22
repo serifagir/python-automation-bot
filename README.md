@@ -177,3 +177,5 @@ reduce the amount of data you get. All depends on what data you need or don't ne
 
 v1: 02.14.2023 - 02.22.2023 sold: 4 copy
 v2: 02.22.2023 - ...........  our team has started to develop 2nd version.
+
+Şerif Ağır ( Serif Agir ) Aegire Soft © All rights reserved.
