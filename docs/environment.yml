@@ -1,0 +1,18 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - beautifulsoup4
+  - matplotlib
+  - scipy
+  - openpyxl
+  - sphinx
+  - pytest
+  - pylint
+  - lxml
+  - html5lib
+  - scikit-learn
+  - pip:
+      - requests-cache==0.5.2
